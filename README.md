@@ -17,7 +17,8 @@ Listas de transmissão são eficientes quando os contatos tem o seu número salv
 Criar um grupo com os contatos é algo incoveniente. Além disso, você pode alcançar mais pessoas do que o máximo permitido em grupos (256 pessoas).
 
 Para o funcionamento do seu caso:
-+ Linha 12: Altere para o sufixo que você costuma salvar seus contatos. Ex: cliente, loja, etc.
-+ Linha 14: Altere para a mensagem que deseja enviar para os contatos. Ex: Bom dia! Estou com um novo produto que possa ser do seu interesse!
++ Preencha todos os campos solicitados na interface gráfica (o campo contador serve para caso voce pare o programa durante a execucao, voce pode voltar de onde parou).
 + Agende um contato com um nome que faça com que ele seja o último da sua lista, eu usei como exemplo "Zfinal Teste" em um contato que bloqueei. É importante que ele também tenha o sufixo que você determinou nos outros contatos. Este contato serve como ponto de parada de execução do programa.
-+ Linha 32: Altere o title para o nome do último contato da sua lista, deve ser o nome exato.
++ Linha 55: Altere o title para o nome do último contato da sua lista, deve ser o nome exato.
++ Após clicar em Iniciar, clique rapidamente na aba do chrome em que o bot irá funcionar, caso o contrário, os comandos do PyAutoGUI não serão reconhecidos e o bot não funcionará.
++ Não use este bot com contatos que usam a função de "mensagens temporárias", ao chegar em um contato com essa função, o bot da erro e não consegue prosseguir com a lista.
