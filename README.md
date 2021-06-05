@@ -12,6 +12,10 @@ Davi Teste\
 Takeshi Teste\
 ... Teste
 
+Por que usar este bot?\
+Listas de transmissão são eficientes quando os contatos tem o seu número salvo, caso o contrário, não receberão as mensagens enviadas pela lista.\
+Criar um grupo com os contatos é algo incoveniente. Além disso, você pode alcançar mais pessoas do que o máximo permitido em grupos (256 pessoas).
+
 Para o funcionamento do seu caso:
 + Linha 12: Altere para o sufixo que você costuma salvar seus contatos. Ex: cliente, loja, etc.
 + Linha 14: Altere para a mensagem que deseja enviar para os contatos. Ex: Bom dia! Estou com um novo produto que possa ser do seu interesse!
