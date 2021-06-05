@@ -29,11 +29,10 @@ while True:
     if eventos == sg.WINDOW_CLOSED:
         break
     if eventos == 'Iniciar':
+        time.sleep(2)
         contador = int(valores['contador'])
         sufixo_contato = valores['sufixo_contato']
         mensagem = valores['mensagem']
-
-        # O contador serve para caso voce pare o programa durante a execucao, voce pode voltar de onde parou
 
         while True:
             # Encontrando o botao de nova conversa
